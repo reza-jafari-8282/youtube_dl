@@ -9,6 +9,6 @@
 
 - select audio or video
 
-- If you select the video(1), select a resolution (for example 720).
+- If you select the video(1), select a resolution (for example 720). 
 or if you select the audio(2) just wait to download it.
 
